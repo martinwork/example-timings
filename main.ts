@@ -13,6 +13,10 @@
  * 
  * loop + running time = 4.9
  * 
+ * loop + while analog = 29.2
+ * 
+ * loop + while digital= 2.7
+ * 
  * With micro:bit V1
  * 
  * empty loop = 2.8
@@ -24,6 +28,10 @@
  * loop + digital read = 9.9
  * 
  * loop + running time = 17.1
+ * 
+ * loop + while analog = 84.4
+ * 
+ * loop + while digital= 10.8
  */
 let digitalPin = DigitalPin.P0
 let analogPin = AnalogPin.P0
